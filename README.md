@@ -7,7 +7,7 @@
 
 
 <p align="center">
-        <samp>「 Hi, I'm a dedicated web developer based in El Kef, Tunisia. I am constantly expanding my expertise in web development. With a diverse skill set, I aim to contribute innovatively to every project. 」
+        <samp>「 Hi, I'm a dedicated 24 year-old software engineer I am constantly expanding my expertise in web development. With a diverse skill set, I aim to contribute innovatively to every project. 」
         </samp>
 </p>
 
